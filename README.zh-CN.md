@@ -41,7 +41,8 @@
 - 当然本项目也提供了 `commonjs` 规范的 `cjs` 版本；
 - 测试覆盖率 **100%**；
 
-# 我的愿景
+# 愿景
+
 希望当您使用这款编辑器时，能像在无垠的沙漠中，发现一片 **生机勃勃** 的绿洲那般 **惊喜** 和 **愉悦**。
 
 # 安装
@@ -65,6 +66,7 @@ pnpm add OasisEditor
 ```
 
 # 常见的所见即所得编辑器
+
 - **[Tiptap](https://tiptap.dev/)**
 - **[Lexical](https://lexical.dev/)**
 - **[Draft.js](https://draftjs.org/)**

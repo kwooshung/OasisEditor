@@ -1,6 +1,6 @@
 <div align="center">
 
-# 绿洲编辑器/OasisEditor
+# OasisEditor/绿洲编辑器
 
 ![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/kwooshung/randoms?labelColor=272e3b&color=00b42A&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kwooshung/randoms?labelColor=272e3b&color=165dff)
@@ -25,9 +25,21 @@
 
 # Why Develop It?
 
+- There are numerous **WYSIWYG (What You See Is What You Get) editors** in the community, and many of them are outstanding. However, based on my usage and testing, they all have **various shortcomings** that make them unsuitable for me;
+- In my opinion, Yuque's **LakexEditor** is currently the best editor. Although it has an open-source version, it's semi-open source at the moment. Its strong coupling with **AntDesign** makes it less applicable for general use.
 
 # Why Use It?
 
+- Supports bilingual annotations in both Chinese and English;
+- Low learning curve, easy to use;
+- Implemented with modern features of **ES6**;
+- Written in **TypeScript** for type safety;
+- Headless, no UI, allowing for a unified website design style;
+- Customizable, supports writing your own plugins, with simple plugin development;
+- Pure script, can depend on any framework, any platform, any environment;
+- Supports on-demand import, `esm` modularization, natively supports **tree-shaking**, no worries about the size after packaging;
+- Of course, this project also provides a `commonjs` standard `cjs` version;
+- Test coverage of **100%**.
 
 # Install
 

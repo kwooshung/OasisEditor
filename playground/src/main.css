@@ -1,0 +1,13 @@
+.OasisEditor {
+  width:100%;
+  border:1px rgb(22,93,255) solid;
+  overflow:hidden;
+}
+
+.OasisEditor > p:first-child {
+  margin-top:0;
+}
+
+.OasisEditor > p:last-child {
+  margin-bottom:0;
+}

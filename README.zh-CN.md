@@ -12,7 +12,7 @@
 [![Npm.js Downloads/Week](https://img.shields.io/npm/dw/OasisEditor?labelColor=272e3b&labelColor=272e3b&color=165dff&logo=npm)](https://www.npmjs.com/package/OasisEditor)
 [![Github CI/CD](https://github.com/kwooshung/randoms/actions/workflows/ci.yml/badge.svg)](https://github.com/kwooshung/randoms/actions/)
 [![codecov](https://codecov.io/gh/kwooshung/randoms/graph/badge.svg?token=VVZJE7H0KD)](https://codecov.io/gh/kwooshung/randoms)
-[![Maintainability](https://api.codeclimate.com/v1/badges/325d0881b1ca19165d35/maintainability)](https://codeclimate.com/github/kwooshung/randoms/maintainability/)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a3b5103ba41067d30129/maintainability)](https://codeclimate.com/github/kwooshung/OasisEditor/maintainability)
 [![GitHub License](https://img.shields.io/github/license/kwooshung/randoms?labelColor=272e3b&color=165dff)](LICENSE)
 [![Gitee Repo](https://img.shields.io/badge/gitee-OasisEditor-165dff?logo=gitee)](https://gitee.com/kwooshung/OasisEditor/)
 ![Github Stars](https://img.shields.io/github/stars/kwooshung/randoms?labelColor=272e3b&color=165dff)
